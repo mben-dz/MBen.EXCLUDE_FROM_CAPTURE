@@ -58,7 +58,7 @@ end;
 - Some advanced screen recording tools may still bypass this protection.
 
 ## Demo
-A video demonstration is available showing the implementation and effect of this technique.
+the video demonstration above is available showing the implementation and effect of this technique.
 
 ---
 
